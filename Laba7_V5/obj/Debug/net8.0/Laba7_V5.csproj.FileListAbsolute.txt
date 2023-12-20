@@ -1,0 +1,14 @@
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\bin\Debug\net8.0\Laba7_V5.exe
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\bin\Debug\net8.0\Laba7_V5.deps.json
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\bin\Debug\net8.0\Laba7_V5.runtimeconfig.json
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\bin\Debug\net8.0\Laba7_V5.dll
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\bin\Debug\net8.0\Laba7_V5.pdb
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\obj\Debug\net8.0\Laba7_V5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\obj\Debug\net8.0\Laba7_V5.AssemblyInfoInputs.cache
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\obj\Debug\net8.0\Laba7_V5.AssemblyInfo.cs
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\obj\Debug\net8.0\Laba7_V5.csproj.CoreCompileInputs.cache
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\obj\Debug\net8.0\Laba7_V5.dll
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\obj\Debug\net8.0\refint\Laba7_V5.dll
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\obj\Debug\net8.0\Laba7_V5.pdb
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\obj\Debug\net8.0\Laba7_V5.genruntimeconfig.cache
+C:\Users\bakud\RiderProjects\Laba7_V5\Laba7_V5\obj\Debug\net8.0\ref\Laba7_V5.dll
